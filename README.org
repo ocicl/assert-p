@@ -1,0 +1,9 @@
+* assert-p
+
+A library of assertions written in Common Lisp.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/noloop/assert-p.git |
+| commit  | bf29ed6                                    |
+| systems | assert-p                                   |
+|---------+--------------------------------------------|
